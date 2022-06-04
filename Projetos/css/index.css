@@ -1,0 +1,49 @@
+*{
+    margin:0;
+}
+
+.titulo{
+    
+    font-size: large;
+    text-align: left;
+    background-color: coral;
+    color: white;
+    padding: 100px;
+    border: 0px;
+}
+
+.publicacao{
+    margin-left: 20px;
+    font-size: large;
+    padding:5px;
+}
+
+.titulo2{
+    margin:20px;
+    font-size:larger;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.texto{
+    margin:20px;
+    font-size: larger;
+
+}
+
+
+
+.toyota_prius_2020-1 img{
+    border-style:outset;
+    border-color:black;
+    border-width:5px;
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+
+}
+
+.final{
+    margin:20px;
+}
